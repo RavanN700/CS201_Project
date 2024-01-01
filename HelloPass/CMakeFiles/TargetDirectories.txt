@@ -1,0 +1,6 @@
+/home/ravan/Downloads/CS201-F23-Template (1)/CS201-F23-Template/Pass/HelloPass/CMakeFiles/intrinsics_gen.dir
+/home/ravan/Downloads/CS201-F23-Template (1)/CS201-F23-Template/Pass/HelloPass/CMakeFiles/omp_gen.dir
+/home/ravan/Downloads/CS201-F23-Template (1)/CS201-F23-Template/Pass/HelloPass/CMakeFiles/acc_gen.dir
+/home/ravan/Downloads/CS201-F23-Template (1)/CS201-F23-Template/Pass/HelloPass/CMakeFiles/HelloPass.dir
+/home/ravan/Downloads/CS201-F23-Template (1)/CS201-F23-Template/Pass/HelloPass/CMakeFiles/edit_cache.dir
+/home/ravan/Downloads/CS201-F23-Template (1)/CS201-F23-Template/Pass/HelloPass/CMakeFiles/rebuild_cache.dir

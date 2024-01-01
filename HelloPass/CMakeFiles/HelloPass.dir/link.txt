@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -fno-rtti -fPIC -shared  -o libHelloPass.so CMakeFiles/HelloPass.dir/HelloPass.cpp.o 
